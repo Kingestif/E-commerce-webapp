@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Nike",
+        "price": 22,
+        "description": "this shoe can fly",
+        "imageUrl": "https://media.wired.com/photos/63728604691ed08cc4b98976/16:9/w_2095,h_1178,c_limit/Nike-Swoosh-News-Gear.jpg",
+        "new": true
+    },
+    {
+        "id": 2,
+        "name": "Jordan",
+        "price": 10,
+        "description": "This Jordan",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1b1785a7-b7b2-4b09-915f-257fd37b7653/AIR+JORDAN+1+MID.png",
+        "new": false
+    },
+    {
+        "id": 3,
+        "name": "Vans",
+        "price": 100,
+        "description": "This is hight quality vans",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbbygJFGHqL4vA13_7N9ziP0VI6fDPNkTFg&s",
+        "new": false
+    },
+    {
+        "id": 4,
+        "name": "Heel Sandal",
+        "price": 200,
+        "description": "Only for Cool ones",
+        "imageUrl": "https://img.drz.lazcdn.com/static/np/p/f4f31898cbccc4a6f8159815c56bd59f.jpg_720x720q80.jpg",
+        "new": true
+    }
+]
